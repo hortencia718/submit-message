@@ -1,0 +1,39 @@
+body {
+    background: rgb(228, 215, 215);
+}
+
+
+.container {
+    background-color: rgb(120, 181, 235);
+    padding: 120px;
+    width: 70%;
+    margin: auto;
+    margin-top:5%;
+    text-align: center;
+    color: rgb(179, 104, 50);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   border-color: rgb(104, 218, 218);
+}
+
+h3{
+    margin-bottom: 10px;
+}
+
+  button {
+    outline-color: cadetblue;
+    padding: 8px 15px 8px 15px;
+    border-radius: 3px;
+    border: 2px solid cadetblue;
+    color:chocolate;
+    font-size: 16px;
+    transition: 1s;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+
+input{
+    padding:1% 20% 2% 0 ;
+    border-radius: 4px;
+    outline-color: rgb(240, 137, 63);
+    color:darkblue
+}
+
